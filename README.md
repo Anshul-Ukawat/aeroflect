@@ -11,14 +11,6 @@ _Aeroflect_ is a powerful spatio-temporal deconfliction system for autonomous dr
 
 ---
 
-## 📸 Demo
-
-<img src="https://user-images.githubusercontent.com/demo-visual.gif" alt="Demo" width="600"/>
-
-> 🔗 Demo Video: [YouTube Link Here](https://www.youtube.com/your-demo)
-
----
-
 ## 📦 Features
 
 - ✅ **Waypoint Mission Validation** (Spatial + Temporal)
